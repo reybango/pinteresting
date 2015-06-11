@@ -7,6 +7,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 62,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pages/home.html.erb",
+			"settings":
+			{
+				"buffer_size": 49,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1622,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -45,10 +69,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/rey/Dropbox/Development/pinteresting"
+		"/Users/rey/Dropbox/Development/pinteresting",
+		"/Users/rey/Dropbox/Development/pinteresting/app",
+		"/Users/rey/Dropbox/Development/pinteresting/app/views",
+		"/Users/rey/Dropbox/Development/pinteresting/app/views/pages",
+		"/Users/rey/Dropbox/Development/pinteresting/config"
 	],
 	"file_history":
 	[
+		"/Users/rey/.zshrc",
 		"/Users/rey/Dropbox/Development/pinteresting/.gitignore",
 		"/Users/rey/Library/Caches/Cleanup At Startup/Transmit/F1C5E6E9-6316-461D-B526-E01C9DDF5E44/wp-config.php",
 		"/Users/rey/Library/Caches/Cleanup At Startup/Transmit/FB1410F2-A939-43D9-93FE-CA6F360A2749/.htaccess",
@@ -61,7 +90,6 @@
 		"/Users/rey/Dropbox/Development/RepCord/Site/index.html",
 		"/Users/rey/Dropbox/Smashing Magazine/The Big Static Comeback/The Big Static Comeback.md",
 		"/Users/rey/Dropbox/Smashing Magazine/Data Visualization - Atanas/Dmitry Baranovskiy - 5 stars.txt",
-		"/Users/rey/.zshrc",
 		"/Users/rey/Dropbox/Development/Pintering Files/S3 Access Key/rb-pinter rootkey.csv",
 		"/Users/rey/Development/pinteresting/Gemfile",
 		"/Users/rey/Development/pinteresting/config/routes.rb",
@@ -115,8 +143,97 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/pages/home.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -126,7 +243,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{
